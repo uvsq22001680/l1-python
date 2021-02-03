@@ -10,7 +10,6 @@ def syracuse(n):
     return li
 print(syracuse(3))
 
-question 2.6:
 def grand_vol(n_max):
     m = 0
     g = 0
