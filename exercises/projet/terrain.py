@@ -10,7 +10,7 @@ import tkinter as tk
  
 #####################
 #definition des constantes
-LARGEUR=int(input('Choisir largeur'))
+LARGEUR=HAUTEUR=int(input("choisir taille"))
 TAILLE_C=LARGEUR//50
 
 #####################
